@@ -4,15 +4,15 @@ Addon for AzerothCore and mod-playerbots to help switch specs and reroll bots. J
 
 ## How to use it
 
-- Select a bot, and click on the new minimap button.
+Select a bot, and click on the new minimap button:
 
 <img width="296" height="243" alt="00" src="https://github.com/user-attachments/assets/ae4f6d15-3384-4e24-84e1-dd01ba818b4a" />
 
-- A simple dialog shows up with a dropdown to switch to any of the out-of-the-box specs.
+A simple dialog shows up with a dropdown to switch to any of the out-of-the-box specs:
 
 <img width="395" height="331" alt="01" src="https://github.com/user-attachments/assets/902ca654-6ee6-4c40-ba36-5b63d9934edf" />
 
-- When you confirm the changes, the following commands are sent to the selected bot:
+When you confirm the changes, the following commands are sent to the selected bot:
 
 ```
 talents spec <<selected spec>>
