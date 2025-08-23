@@ -1,8 +1,10 @@
 # Playerbot Spec Changer
 
-Addon for AzerothCore and mod-playerbots to help switch specs and reroll bots. Just gives a visual interface allowing you to switch a bot spec.
+Addon for AzerothCore [mod-playerbots](https://github.com/liyunfan1223/mod-playerbots) to help switch specs and reroll bots. Just gives a visual interface allowing you to switch a bot spec.
 
 ## How to use it
+
+Just download the addon into the Interface/Addons folder and launch the game.
 
 Select a bot, and click on the new minimap button:
 
