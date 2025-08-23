@@ -110,7 +110,7 @@ end
 function API:SendUpdateSpecCommands(target, spec)
     local commands = {
         "talents spec " .. spec,
-        "maitenance",
+        "maintenance",
         "reset botAI",
         "autogear",
     }

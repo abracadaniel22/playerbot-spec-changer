@@ -16,7 +16,7 @@ When you confirm the changes, the following commands are sent to the selected bo
 
 ```
 talents spec <<selected spec>>
-maitenance
+maintenance
 reset botAI
 autogear
 ```
